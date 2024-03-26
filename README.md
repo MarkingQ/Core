@@ -1,4 +1,3 @@
-4G_MODEM_22A_W22.43.4_P25|qogirl6_modem,4G_MODEM_22A_W22.43.4_P25|qogirl6_modem
 
 # CocoaPods Core
 
@@ -39,6 +38,4 @@ really easy and gratifying.
 Follow [@CocoaPods](http://twitter.com/CocoaPods) to get up to date
 information about what's going on in the CocoaPods world.
 
-## License
-
-This gem and CocoaPods are available under the MIT license.
+## Lider the MIT license.
