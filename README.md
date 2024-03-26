@@ -1,3 +1,5 @@
+4G_MODEM_22A_W22.43.4_P25|qogirl6_modem,4G_MODEM_22A_W22.43.4_P25|qogirl6_modem
+
 # CocoaPods Core
 
 [![Build Status](https://github.com/CocoaPods/Core/workflows/Specs/badge.svg)](https://github.com/CocoaPods/Core/actions/workflows/Specs.yml)
